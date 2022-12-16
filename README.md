@@ -1,4 +1,4 @@
-https://forum.huawei.com/enterprise/es/data/attachment/forum/202207/10/063524ziujzsi2baynsbxn.jpg
+![imagen](https://forum.huawei.com/enterprise/es/data/attachment/forum/202207/10/063524ziujzsi2baynsbxn.jpg)
 
 # Proyecto Individual Lab-02 Machine Learning
 
@@ -18,6 +18,7 @@ En segundo lugar es incentivarnos a investigar más acerca de Machine Learning y
 El problema que se nos entrega, consiste en un hospital que tiene unos altos costos al tener pacientes con estancias prolongadas y un problema que también puede ser de salud pública, ya que, la saturación en un hospital puede traer grandes consecuencias.
 
 Como solución a este problema debemos proponer una forma de predecir con una alta probabilidad si un paciente estará en una estancia prolongada y permitirle al hospital tomar decisiones acertadas.
+
 
 ## Información para el desarrollo del modelo
 
@@ -41,7 +42,11 @@ Las dimensiones que nos proporcionan son las siguientes:
 - Admission_Deposit: Pago realizado a nombre del paciente, con el fin de cubrir los costos iniciales de internación. 
 - Stay (in days): Días registrados de estancia hospitalaria.
 
+
 ## Pasos para el desarrollo del modelo
+
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIXHEjiUrO38coWoPp_6BJLiGCfMP96FbWQ&usqp=CAU"  height=150>
+</p>
 
 1. Se hace un análisis exploratorio de la información provista para poder analizar con qué información se cuenta y si realmente ésta información podría llegar a arrojarnos un resultafos satisfactorio.
 2. Se procede a visualizar a través de la libreria pandas la información de todo el dataset de forma detallada, se verifican si hay nulos, se verifica si hay filas repetidas.
@@ -73,3 +78,6 @@ Las dimensiones que nos proporcionan son las siguientes:
 Tener un acercamiento a Machine Learning a través de éste proyecto ha sido muy importante, ya que, he visto principalmente la gran utilidad que tiene para resolver problemas. ésto me reto y me hizo investigar demasiado y sobretodo me divertí bastante tratando de mejorar el modelo y compitiendo con mis compañeros. De lejos puedo decir que es la parte que mas me ha gustado de el bootcamp y a pesar de no haber podido subir las métricas me han quedado bastantes conocimientos.
 
 Una conclusión muy importante en cuanto a lo técnico es que se le debe dedicar bastante tiempo al analisis exploratorio, ya que, se pueden usar diferentes algoritmos, entrenar redes neuronales pero si la información que se está usando no es la mas óptima va a ser muy dificil encontrar un resultado exploratorio.
+
+<p align="center"><img src="https://miro.medium.com/max/1400/0*bZo2HlVXJZUek2eU.gif"  height=400>
+</p>
