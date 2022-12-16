@@ -1,3 +1,4 @@
+https://forum.huawei.com/enterprise/es/data/attachment/forum/202207/10/063524ziujzsi2baynsbxn.jpg
 
 # Proyecto Individual Lab-02 Machine Learning
 
